@@ -3,7 +3,7 @@
 <p align="center">
   🎓 CS Undergraduate  
   🧠 ICPC / CCPC Medalist  
-  ⚙️ C++ / System / Database Enthusiast
+  ⚙️ C++ 
 </p>
 
 ---
@@ -55,4 +55,4 @@ while (true) {
 
 ## 📫 Contact
 
-📧 [mmaoyiyun@gmail.com](mailto:maoyiyun@gmail.com)
+📧 mmaoyiyun@gmail.com
